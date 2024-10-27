@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        darkSlateGrey: "var(--darkSlateGrey)",
+        charcoalGrey: "var(--charcoalGrey)",
+        grey: "var(--grey)",
+        white:"var(--white)",
+        tomato: "var(--tomato)",
+
       },
     },
   },

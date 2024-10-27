@@ -1,0 +1,20 @@
+.card{
+    @apply bg-white rounded-xl  flex flex-col sm:flex-row max-w-[375px] sm:max-w-[928px] h-[641px] items-center
+}
+
+.check{
+    @apply flex gap-3
+}
+
+.input{
+    @apply appearance-none focus:outline-none h-8 rounded-md p-5
+}
+
+.button{
+    @apply bg-darkSlateGrey text-white my-5 p-4 rounded-md font-medium hover:bg-tomato
+}
+
+.innerCard {
+    @apply flex flex-col gap-1 sm:gap-6 p-4 mt-3 md:p-11 
+}
+
